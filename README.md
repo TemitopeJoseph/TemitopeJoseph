@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TemitopeJoseph
+- ##👋 Hi, I’m @TemitopeJoseph
 - 👀 I’m interested in web design and Data analysis tool
 - 🌱 I’m currently learningS Html,CSS and java script.
 - Also practicing on power Bi, SQL and python.

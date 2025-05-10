@@ -1,4 +1,5 @@
 ## Hi, I’m @Temitope Joseph
+DATA SCIENCE | MCHINE lEARNING 
 
 - 👀 I’m interested in Data analysis, Data Science and Machine Learning
 - 🌱 I’m currently learning Python for Data Science.

@@ -1,6 +1,8 @@
+## Hi, I’m @Temitope Joseph
+
 - 👀 I’m interested in Data analysis, Data Science and Machine Learning
 - 🌱 I’m currently learning Python for Data Science.
-- 💞️ I’m looking to collaborate on Data Science Project. 
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Project. 
 - 📫 reach me on linkedin via https://www.linkedin.com/in/anifowoshe-temitope-84950b1b5
 
 <!---

@@ -2,7 +2,8 @@
 Data Science|Machine Learning 
 
 **Welcome to my GitHub!!!**
-A data enthusiast with a background in mathematics and a passion for solving real-world problems using data science and machine learning.I am passionat about collaborating with others and Voluteering. 
+
+A data enthusiast with a background in mathematics and a passion for solving real-world problems using data science and machine learning.I am passionate about learning from others, collaborating and Voluteering. 
 
 ## About Me:
 

@@ -1,8 +1,6 @@
-- ##👋 Hi, I’m @TemitopeJoseph
-- 👀 I’m interested in web design and Data analysis tool
-- 🌱 I’m currently learningS Html,CSS and java script.
-- Also practicing on power Bi, SQL and python.
-- 💞️ I’m looking to collaborate on  HTML, JavaScript.
+- 👀 I’m interested in Data analysis, Data Science and Machine Learning
+- 🌱 I’m currently learning Python for Data Science.
+- 💞️ I’m looking to collaborate on Data Science Project. 
 - 📫 reach me on linkedin via https://www.linkedin.com/in/anifowoshe-temitope-84950b1b5
 
 <!---

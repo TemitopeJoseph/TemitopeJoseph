@@ -1,10 +1,29 @@
 ## Hi, I’m @Temitope Joseph
-DATA SCIENCE | MCHINE lEARNING 
+Data Science|Machine Learning 
 
+**Welcome to my GitHub!!!**
+A data enthusiast with a background in mathematics and a passion for solving real-world problems using data science and machine learning.I am passionat about collaborating with others and Voluteering. 
+
+## About Me:
+
+- 🔭 Current Role: Tutor at F.O.M Tech Academy(Volunteer)
 - 👀 I’m interested in Data analysis, Data Science and Machine Learning
-- 🌱 I’m currently learning Python for Data Science.
+- 🌱Learning: Data Science And Machine Learning | Python(Numpy, Pandas, Mathplotlib, Seaborn, Scikit-learn), SQL, Power BI. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning Project. 
-- 📫 reach me on linkedin via https://www.linkedin.com/in/anifowoshe-temitope-84950b1b5
+- 📫 Connect on linkedin:  https://www.linkedin.com/in/anifowoshe-temitope-84950b1b5
+
+## Areas of interest:
+
+- 🧠 Machine Learning & Predictive Modeling
+- 🧠 Data Cleaning & Exploratory Data Analysis (EDA)
+- 🧠 Data Visualization & Storytelling
+
+## Commuminity Involvelement:
+
+- DeepTech Learning Community (DSN)
+- TechUp Africa (DataCamp)
+- ALX Data Analysis
+  
 
 <!---
 TemitopeJoseph/TemitopeJoseph is a ✨ special ✨ responsible and hardworking professional because its `README.md` (this file) appears on your GitHub profile.

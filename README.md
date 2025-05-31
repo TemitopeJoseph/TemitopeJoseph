@@ -22,6 +22,7 @@ A data enthusiast with a background in mathematics and a passion for solving rea
 ## Commuminity Involvelement:
 
 - DeepTech Learning Community (DSN)
+- TechUp Africa Community(Datascience|Machine Learning)
 - TechUp Africa (DataCamp)
 - ALX Data Analysis
   
